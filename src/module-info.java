@@ -1,0 +1,2 @@
+module Rede_Social {
+}
